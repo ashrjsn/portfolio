@@ -1,0 +1,13 @@
+html {
+    background-color: bisque;
+}
+    
+h1 {
+    color: blue;
+}
+h2 {
+    color: darkcyan;
+}
+* {
+    color: rgb(23, 86, 163);
+}
